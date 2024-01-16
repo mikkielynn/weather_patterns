@@ -10,3 +10,7 @@
 ![Screenshot 2024-01-15 at 11 16 03 PM](https://github.com/mikkielynn/weather_patterns/assets/86530857/c9b57568-4e7c-48c7-822b-90575b5b0d9e)
 ![Screenshot 2024-01-15 at 11 16 26 PM](https://github.com/mikkielynn/weather_patterns/assets/86530857/0ce41bd9-4b15-4c18-977c-614b01f2f0d9)
 ![Screenshot 2024-01-15 at 11 16 40 PM](https://github.com/mikkielynn/weather_patterns/assets/86530857/d904f65e-6e6a-4d43-854c-ad5ec8f21cd2)
+![Screenshot 2024-01-15 at 11 17 58 PM](https://github.com/mikkielynn/weather_patterns/assets/86530857/6932b1c4-c48c-4937-b4f8-9646a9891504)
+![Screenshot 2024-01-15 at 11 18 46 PM](https://github.com/mikkielynn/weather_patterns/assets/86530857/ba54ef26-76fd-4a09-a1f5-3c0f836535cb)
+![Screenshot 2024-01-15 at 11 19 02 PM](https://github.com/mikkielynn/weather_patterns/assets/86530857/5745c18b-cd3c-4e4d-8627-856e2b16bd01)
+![Screenshot 2024-01-15 at 11 19 35 PM](https://github.com/mikkielynn/weather_patterns/assets/86530857/fb759256-614b-4686-a2d0-b4e5aebcd1d0)
