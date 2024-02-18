@@ -16,5 +16,8 @@ The World Weather Repository Dataset encodes global weather data including air p
 ![Screenshot 2024-01-15 at 11 18 46 PM](https://github.com/mikkielynn/weather_patterns/assets/86530857/ba54ef26-76fd-4a09-a1f5-3c0f836535cb)
 ![Screenshot 2024-01-15 at 11 19 02 PM](https://github.com/mikkielynn/weather_patterns/assets/86530857/5745c18b-cd3c-4e4d-8627-856e2b16bd01)
 ![Screenshot 2024-01-15 at 11 19 35 PM](https://github.com/mikkielynn/weather_patterns/assets/86530857/fb759256-614b-4686-a2d0-b4e5aebcd1d0)
-https://github.com/mikkielynn/weather_patterns/assets/86530857/59625e76-2a9b-4d4d-bbb9-2dd64f9f20d8
+
+
+
+https://github.com/mikkielynn/weather_patterns/assets/86530857/ec6701d9-286a-4f69-89a6-04a1ceae03d3 
 
